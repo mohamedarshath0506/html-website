@@ -1,0 +1,57 @@
+/**
+*
+* style.css
+* @author- Arshath
+* @date- 26/10/2022
+*/
+.container {
+    max-width: 1246px;
+    margin: 0 auto;
+}
+.section-light {
+    padding: 100px 0 20px 0;
+    background-color: #fff;
+}
+.section-dark {
+    padding: 90px 0 50px 0;
+    background-color: #E8E3E1;
+}
+.subtitle {
+    padding-bottom: 70px;
+}
+.card-container {
+    column-gap: 82px;
+    padding: 63px 0;
+}
+.card-img {
+    padding: 0 0 20px 0;
+}
+.shop-container {
+    justify-content: space-evenly;
+}
+.shop-container p {
+    margin: 30px 0;
+    line-height: 27px;
+    color: #232323;
+}
+.image-group-container {
+    padding: 0 0 127px 0;
+    column-gap: 20px;
+}
+.instagram-container {
+    padding: 69px 0 113px 0;
+}
+.instagram-container h2 {
+    font-size: 48px;
+}
+
+.grid-2 {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-gap: 40px 20px;
+}
+.grid-4 {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-column-gap: 20px;
+}

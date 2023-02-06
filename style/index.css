@@ -1,0 +1,14 @@
+/**
+*
+* index.css
+* @author- Arshath
+* @date- 26/10/2022
+*/
+@import "style.css";
+@import "base.css";
+@import "form.css";
+@import "align.css";
+@import "layout.css";
+@import "header.css";
+@import "footer.css";
+@import "spacing.css";
